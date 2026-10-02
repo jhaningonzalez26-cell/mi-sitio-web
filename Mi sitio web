@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Sitio Web para AdSense</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; color: #333; }
+        header { background-color: #0056b3; color: white; padding: 20px; text-align: center; }
+        .container { max-width: 800px; margin: 20px auto; padding: 20px; background: white; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        .adsense-placeholder { background-color: #e0e0e0; border: 2px dashed #999; padding: 20px; text-align: center; margin: 20px 0; color: #666; font-weight: bold; }
+        article { margin-bottom: 30px; }
+        h2 { color: #0056b3; }
+        footer { text-align: center; padding: 20px; background: #333; color: white; margin-top: 40px; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Bienvenidos a Mi Sitio Web Dinámico</h1>
+        <p>Tu dosis diaria de información interesante</p>
+    </header>
+
+    <div class="container">
+        <!-- BLOQUE DE ANUNCIO SUPERIOR -->
+        <div class="adsense-placeholder">
+            [ESPACIO RESERVADO PARA TU ANUNCIO DE GOOGLE ADSENSE]
+        </div>
+
+        <article>
+            <h2>¿Cómo empezar a generar ingresos en internet en 2026?</h2>
+            <p>Para ganar dinero con Google AdSense necesitas crear artículos de alta calidad que la gente busque en internet. El secreto está en la constancia: escribe sobre tecnología, pasatiempos, recetas o finanzas constantemente.</p>
+            <p>Una vez que publiques de 15 a 20 artículos y tengas visitas diarias, envías el sitio a revisión y Google colocará anuncios automáticos exactamente en los bloques grises marcados en esta página.</p>
+        </article>
+
+        <!-- BLOQUE DE ANUNCIO INFERIOR -->
+        <div class="adsense-placeholder">
+            [ESPACIO RESERVADO PARA TU ANUNCIO DE GOOGLE ADSENSE]
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 Mi Sitio Web Monetizado. Todos los derechos reservados.</p>
+    </footer>
+
+</body>
+</html>
